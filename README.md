@@ -1,4 +1,9 @@
 # after_effect
 
+## Footage
+  - Merged Layers : 모든 레이어를 병합하여 하나의 레이어로 불러온다.
+  - Choose Layer: 선택한 레이어만 하나의 이미지 파일로 불러온다.
+  
 ## Composition
-  -Editable 여러 개의 레이어를 동일하게 ㅓ럻
+  - Editable Layer: 포토샵에서 설정한 레이어 스타일을 동일하게 보여주고, 수정 가능
+  - Merge Layer: 설정한 레이어 스타일을 병합한다. 렌더링 속도가 빠를 수 있지만 포토샵에서의 결과와 완전히 똑같지 않을 수 있다.
